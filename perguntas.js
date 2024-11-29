@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Aula para solteiros',
+    'Quem manda na relação?',
+    'A mulher'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Aula para solteiros',
+    'Quer ir sair com amigos?',
+    'Quero mas não vou'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Aula para solteiros',
+    '"vc que sabe"',
+    'vc não sabe'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Aula para solteiros',
+    'posso sair com meus amigos?',
+    'DINHEIRO'
 )
